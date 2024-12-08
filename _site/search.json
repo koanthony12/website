@@ -28,25 +28,11 @@
     "text": "Experience\nPV Circonomy | Machine Learning Engineer Intern | June 2024 - August 2024"
   },
   {
-    "objectID": "projects/01-project.html",
-    "href": "projects/01-project.html",
-    "title": "Anthony Ko",
-    "section": "",
-    "text": "Some complicated statistics project\n\nrunif(10)\n\n [1] 0.49662163 0.17271992 0.54331895 0.97436713 0.82261251 0.07238569\n [7] 0.09667805 0.31345889 0.14977504 0.03274765"
-  },
-  {
     "objectID": "courses.html",
     "href": "courses.html",
     "title": "Courses",
     "section": "",
     "text": "Relevant Courses Taken\n\nComputation and Optimization for Statistics\nStatistical Models and Data Mining\nData Management\nData Analysis and Regression\nComputational Statistics with R, Linear Models\nDesign and Analysis of Experiment, Monte Carlo Methods\nPractice of Statistical Consulting\nObject Oriented Programming\nData Structures and Algorithms"
-  },
-  {
-    "objectID": "projects/02-project.html",
-    "href": "projects/02-project.html",
-    "title": "Anthony Ko",
-    "section": "",
-    "text": "Some complicated statistics project\n\nrnorm(100) |&gt; hist()"
   },
   {
     "objectID": "projects.html",
