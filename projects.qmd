@@ -1,0 +1,10 @@
+---
+title: "Projects"
+toc: false
+---
+
+## [Amazon Product Reccomendation System](project1.pdf)
+This project involves building a recommendation system to provide personalized product suggestions for Amazon customers based on their previous ratings. Leveraging a dataset of Amazon product reviews, the system aims to enhance user experience by delivering relevant recommendations while supporting business goals through improved customer engagement. 
+
+## [FoodHub Order Analysis](project2.pdf)
+This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience. Performed Exploratory Data Analysis (EDA) on a FoodHub dataset to determine correlations and characteristics. Utilized Seaborn and MatPlotLib to visualize food preparation time, cost of orders, and delivery times. Mutated the set for restaurants fulfilling rating count and score for promotional offers.

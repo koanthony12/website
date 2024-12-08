@@ -2,15 +2,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Anthony Ko",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a senior at UCLA, pursuing a degree in Statistics and Data Science, with a strong passion for applying data-driven solutions to real-world problems. Throughout my academic journey, I have developed a solid foundation in statistical modeling, machine learning, and data analysis, alongside practical experience with programming languages such as Python, R, and SQL. I am particularly interested in leveraging data to drive decision-making in the tech industry, with aspirations to contribute to areas like artificial intelligence, data engineering, or business intelligence."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "personal website",
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Anthony Ko",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a senior at UCLA, pursuing a degree in Statistics and Data Science, with a strong passion for applying data-driven solutions to real-world problems. Throughout my academic journey, I have developed a solid foundation in statistical modeling, machine learning, and data analysis, alongside practical experience with programming languages such as Python, R, and SQL. I am particularly interested in leveraging data to drive decision-making in the tech industry, with aspirations to contribute to areas like artificial intelligence, data engineering, or business intelligence."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Anthony Ko",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA BS in Statistics and Data Science| Sept 2023 - June 2025\nPasadena City College | Pasadea, CA | June 2021 - May 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Anthony Ko",
+    "section": "Experience",
+    "text": "Experience\nPV Circonomy | Machine Learning Engineer Intern | June 2024 - August 2024"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Anthony Ko",
+    "section": "",
+    "text": "Some complicated statistics project\n\nrunif(10)\n\n [1] 0.49662163 0.17271992 0.54331895 0.97436713 0.82261251 0.07238569\n [7] 0.09667805 0.31345889 0.14977504 0.03274765"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Relevant Courses Taken\n\nComputation and Optimization for Statistics\nStatistical Models and Data Mining\nData Management\nData Analysis and Regression\nComputational Statistics with R, Linear Models\nDesign and Analysis of Experiment, Monte Carlo Methods\nPractice of Statistical Consulting\nObject Oriented Programming\nData Structures and Algorithms"
+  },
+  {
+    "objectID": "projects/02-project.html",
+    "href": "projects/02-project.html",
+    "title": "Anthony Ko",
+    "section": "",
+    "text": "Some complicated statistics project\n\nrnorm(100) |&gt; hist()"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project involves building a recommendation system to provide personalized product suggestions for Amazon customers based on their previous ratings. Leveraging a dataset of Amazon product reviews, the system aims to enhance user experience by delivering relevant recommendations while supporting business goals through improved customer engagement."
+  },
+  {
+    "objectID": "projects.html#amazon-product-reccomendation-system",
+    "href": "projects.html#amazon-product-reccomendation-system",
+    "title": "Projects",
+    "section": "",
+    "text": "This project involves building a recommendation system to provide personalized product suggestions for Amazon customers based on their previous ratings. Leveraging a dataset of Amazon product reviews, the system aims to enhance user experience by delivering relevant recommendations while supporting business goals through improved customer engagement."
+  },
+  {
+    "objectID": "projects.html#foodhub-order-analysis",
+    "href": "projects.html#foodhub-order-analysis",
+    "title": "Projects",
+    "section": "FoodHub Order Analysis",
+    "text": "FoodHub Order Analysis\nThis project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience. Performed Exploratory Data Analysis (EDA) on a FoodHub dataset to determine correlations and characteristics. Utilized Seaborn and MatPlotLib to visualize food preparation time, cost of orders, and delivery times. Mutated the set for restaurants fulfilling rating count and score for promotional offers."
   }
 ]

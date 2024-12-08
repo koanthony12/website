@@ -1,11 +1,33 @@
 ---
-title: "personal-website"
+title: "Anthony Ko"
+about:
+  template: trestles
+  image: pfp.jpg
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/koanthony12/"
+    - icon: github
+      text: Github
+      href: https://github.com/koanthony12
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:koanthony12@gmail.com"
+    - text: CV
+      url: "cv.pdf"
+toc: false
 ---
 
-This is a Quarto website.
+## Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a senior at UCLA, pursuing a degree in Statistics and Data Science, with a strong passion for applying data-driven solutions to real-world problems. Throughout my academic journey, I have developed a solid foundation in statistical modeling, machine learning, and data analysis, alongside practical experience with programming languages such as Python, R, and SQL. I am particularly interested in leveraging data to drive decision-making in the tech industry, with aspirations to contribute to areas like artificial intelligence, data engineering, or business intelligence.
 
-```{r}
-1 + 1
-```
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+BS in Statistics and Data Science| Sept 2023 - June 2025
+
+Pasadena City College | Pasadea, CA | June 2021 - May 2023
+
+## Experience
+
+PV Circonomy | Machine Learning Engineer Intern | June 2024 - August 2024

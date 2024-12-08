@@ -1,0 +1,16 @@
+---
+title: "Courses"
+toc: false
+---
+
+Relevant Courses Taken
+
+- Computation and Optimization for Statistics
+- Statistical Models and Data Mining
+- Data Management 
+- Data Analysis and Regression
+- Computational Statistics with R, Linear Models
+- Design and Analysis of Experiment, Monte Carlo Methods
+- Practice of Statistical Consulting
+- Object Oriented Programming
+- Data Structures and Algorithms
